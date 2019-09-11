@@ -1,6 +1,6 @@
 - Disclaimer: Source code reference https://github.com/lampaa/com.lampa.startapp, self-added ios parameter receiving, application download and application exit function
 
-- Use the reference https://blog.csdn.net/qq_34817440/article/details/10017825
+- Use the reference https://blog.csdn.net/qq_34817440/article/details/100178255
 
 # cordova plugin startapp
 
